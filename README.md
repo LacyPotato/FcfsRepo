@@ -1,5 +1,5 @@
 ``` This is FCFS program```
-|--------------------------------------------------------------------|
+
 |process ID |Burst Time | Waiting Time | TurnAround Time |
 |--- |--- |--- |--- |
 |1|5|0|5|
