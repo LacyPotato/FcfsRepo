@@ -1,4 +1,3 @@
 ```this is ***FCFS*** program```
-|table|goes|here|
-|--- |--- |--- |
-|0n2|two|three|
+|process ID |Burst Time | Waiting Time | TurnAround Time |
+|--- |--- |--- |--- |
